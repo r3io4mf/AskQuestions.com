@@ -1,0 +1,15 @@
+# this yaml sheet links the email to the subject combination
+email:
+  nseriouslynoots@gmail.com:
+    - Physics
+    - Chemistry
+    - Mathematics
+    - Economics
+
+status:
+  nseriouslynoots@gmail.com:
+    Student
+  nseriouslynot@gmail.com:
+    Student Contributor
+  notmeinthefuture@gmail.com:
+    Teacher

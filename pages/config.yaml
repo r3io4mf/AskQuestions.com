@@ -1,0 +1,54 @@
+cookie:
+  expiry_days: 0
+  key: r3io4mf
+  name: let cookie monster eat
+credentials:
+  usernames:
+    bbcsi6:
+      email: bingchilling@yahoo.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: bbcsi6
+      password: $2b$12$.BE8vNoWbBfvUbE8a7dhL.rCaJ0Kd.5xyUSWRf.piPHzOxZ.S0T/y
+    bob:
+      email: nseriousynot@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: bob
+      password: $2b$12$7ykoQ.yVVQKY5alwjm4.0e5psehekycP5nKDz7/DDG1m6TsGbJ5zq
+    boba:
+      email: bobqwerties@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: boba
+      password: $2b$12$Zs4qIl8oPqqq3gWiSAIR2u1txF3mMq4rtgNoAgHvvs5jRYg/.T5.K
+    boby:
+      email: nseriouslynoots@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: boby
+      password: $2b$12$P6qDRFpg7t2GzZSv7Ef0j.UnpHIWsh1GjD2bBBBd7iFR5Zu1VOX8q
+    imdad:
+      email: nseriouslynots@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: ruiyang
+      password: $2b$12$25/d2mdkWCk1.bOe7S4OC.H1xd3NmI39C3OlPzGYdtPC13rSxGCDe
+    joshappreciation:
+      email: yourmom@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: joshappreciation
+      password: $2b$12$u26yCFLg/ig2/tk6iklxmOntMyAmfZQmXaZYKgECvoRJSml587s8e
+    neindich:
+      email: ryanyow@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: 'ryan'
+      password: $2b$12$IarmQKU0/pAsXq6GSJ10ouEXHh1HbYTK.VSQlnbigl7AgfBxwRjke
+    tristan_yip:
+      email: nseriouslynot@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: not a real name
+      password: $2b$12$PqRjTZrCwvbKnjNs0XnauuNqqbGKQDBN0XuujaCSbjo7TQfI.CKvy
