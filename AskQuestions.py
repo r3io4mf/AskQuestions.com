@@ -4,7 +4,7 @@ from PIL import Image
 import io
 import os
 import streamlit as st
-import Streamlit-Authenticator as stauth
+import streamlit_authenticator as stauth
 import yaml
 import uuid
 # main_page
