@@ -1,4 +1,3 @@
-pip install streamlit-authenticator
 # a python file inside pages 
 import pandas as pd
 from PIL import Image
