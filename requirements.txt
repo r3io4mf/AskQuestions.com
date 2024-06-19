@@ -3,4 +3,4 @@ Pillow
 streamlit
 pyyaml
 uuid
-streamlit-authenticator
+streamlit_authenticator
