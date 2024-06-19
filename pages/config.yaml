@@ -34,21 +34,3 @@ credentials:
       logged_in: true
       name: ruiyang
       password: $2b$12$25/d2mdkWCk1.bOe7S4OC.H1xd3NmI39C3OlPzGYdtPC13rSxGCDe
-    joshappreciation:
-      email: yourmom@gmail.com
-      failed_login_attempts: 0
-      logged_in: false
-      name: joshappreciation
-      password: $2b$12$u26yCFLg/ig2/tk6iklxmOntMyAmfZQmXaZYKgECvoRJSml587s8e
-    neindich:
-      email: ryanyow@gmail.com
-      failed_login_attempts: 0
-      logged_in: false
-      name: 'ryan'
-      password: $2b$12$IarmQKU0/pAsXq6GSJ10ouEXHh1HbYTK.VSQlnbigl7AgfBxwRjke
-    tristan_yip:
-      email: nseriouslynot@gmail.com
-      failed_login_attempts: 0
-      logged_in: false
-      name: not a real name
-      password: $2b$12$PqRjTZrCwvbKnjNs0XnauuNqqbGKQDBN0XuujaCSbjo7TQfI.CKvy
