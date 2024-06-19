@@ -1,2 +1,2 @@
-
+streamlit
 git+https://github.com/mkhorasani/Streamlit-Authenticator.git@main#egg=streamlit_authenticator&subdirectory=streamlit_authenticator
